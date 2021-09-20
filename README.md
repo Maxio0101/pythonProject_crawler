@@ -1,4 +1,4 @@
-# pythonProject_crawler
+# PythonProject_crawler
 Using python3 and BeautifulSoup to scrawl stock histroy price from cn.investing.com<br>
 
 ## Input
